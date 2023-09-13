@@ -4,6 +4,9 @@ This is a mini project for my Basic Programming
 
 Created by C
 
+
+![Screenshot 2023-09-14 025854](https://github.com/zahrabtlb/Mine-Sweeper/assets/124011267/62e00917-2fc5-4387-906f-e5e87360eb5f)
+
 ![Screenshot 2023-09-14 030411](https://github.com/zahrabtlb/Mine-Sweeper/assets/124011267/8805ab86-f882-4d3c-818b-93cb43dd9e53)
 
 
